@@ -23,12 +23,13 @@ h1 {
     display: inline-block;
     font-size: 48px;
 }
-
+/* emphasized SEO in "Horiseon" */
 .seo {
     color: #d9dcd6;
     font-style: normal;
 }
 
+/* nav bar formatting */
 nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -42,15 +43,17 @@ li {
     font-size: 20px;
 }
 
+/* link text color */
 a {
     color: #ffffff;
     text-decoration: none;
 }
-
+/* paragraph font size */
 p {
     font-size: 16px;
 }
 
+/* main page figure */
 figure {
     height: 800px;
     width: 100%;
@@ -59,6 +62,8 @@ figure {
     background-size: cover;
     background-position: center;
 }
+
+/* float formatting */
 
 .float-left {
     float: left;
@@ -70,7 +75,7 @@ figure {
     margin-left: 25px;
 }
 
-/* body formatting */
+/* main content formatting */
 main {
     width: 75%;
     display: inline-block;
@@ -94,7 +99,7 @@ main section h2 {
 main section img {
     max-height: 200px;
 }
-
+/* aside  formatting */
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -121,7 +126,7 @@ aside section img {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* footer formatting */
 footer {
     padding: 30px;
     clear: both;
